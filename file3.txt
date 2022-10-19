@@ -1,1 +1,7 @@
 hellow friends i am saif alam and i am learning git hub from youtube channnel shanneishth kumar channel . 
+
+
+what do you understand by the framework and library?
+framewok is the colllection of library generally however it is not true everytime and the collection of API'S , code block ,  compilor etc and library is just the collection of module and method in which some function are written and we use it accordingly 
+eg of framework is AGULULOR JS , NODE JS ,SPRINGBOOT
+EG OF LIBRARY IS :--- REact, ecs , etc 
